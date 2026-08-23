@@ -1,4 +1,4 @@
-# .github
+# .AIYA-Introduction
 # AI Youth Alliance (AIYA) 🌐
 
 Welcome to the official GitHub home of the **AI Youth Alliance (AIYA)**. We are a global, student-led network operating under the auspices of the **Hey AI! Foundation**, dedicated to advancing learning, problem-solving, and critical AI literacy in our schools.
