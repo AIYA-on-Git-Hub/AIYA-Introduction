@@ -15,7 +15,7 @@ We provide structured spaces for safe exploration and discovery. This work is di
 
 *   **💻 AIYA Coding Forum:** Focused on hands-on software development, foundational machine learning algorithms, and programming custom AI agents.
 *   **📈 AIYA Finance Forum:** Exploring the intersection of AI, economic modeling, financial analysis, and predictive workflows.
-*   **🗳️ AIYA Democracy and Media Forum:** Dedicated to analyzing, problematizing, and collaborating around the impact of AI on media integrity, misinformation, democratic processes and political outcomes.
+*   **🗳️ AIYA Democracy and Media Forum:** Dedicated to analyzing, problematizing, and collaborating around the impact of AI on media integrity, misinformation, democratic processes and political outcomes, tracking synthetic media, creating misinformation classification benchmarks, and technical and policy proposals.
 
 ---
 
