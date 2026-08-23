@@ -28,7 +28,7 @@ We bring hands-on experiential AI programming directly into school chapters thro
 ---
 
 ## 🤝 Connect with Us
-*   **Official Website:** [aiyouthalliance.org](https://aiyouthalliance.org)
+*   **Official Website:** [aiyouthalliance.org](https://www.aiyouthalliance.org)
 *   **Hugging Face:** [AIYA-on-Huggingface](https://huggingface.co)
 *   **Instagram:** [ai.youth.alliance](https://instagram.com)
 *   **Youtube:** [@AI_Youth_Alliance](https://youtube.com)
