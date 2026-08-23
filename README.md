@@ -22,7 +22,7 @@ We provide structured spaces for safe exploration and discovery. This work is di
 ## 📅 Tentpole Global Initiatives
 We bring hands-on experiential AI programming directly into school chapters through three yearly tentpole events:
 1.  **AIYA Literacy Week:** Direct, hands-on challenges and problem sets designed to highlight both the vast capabilities and surprising limitations of AI.
-2.  **AIYA Global Hackathon:** A first-of-its-kind international competition for building apps, models, and agents using AI.
+2.  **AIYA Global Hackathon:** A first-of-its-kind international competition for building apps, models, agents and teams using AI.
 3.  **AIYA Impact Symposium:** A global showcase for student creative projects, policy whitepapers, and technical research centered around applicaton of artificial intelligence to real-world problems and endeavors.
 
 ---
