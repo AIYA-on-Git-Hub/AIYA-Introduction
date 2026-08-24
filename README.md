@@ -33,6 +33,7 @@ We bring hands-on experiential AI programming directly into school chapters thro
 *   **Instagram:** [ai.youth.alliance](https://instagram.com)
 *   **Youtube:** [@AI_Youth_Alliance](https://youtube.com)
 *   **X (Twitter):** [@AIYA_on_X](https://x.com)
+*   **Kaggle:** [aiyaonkaggle](https://kaggle.com/aiyaonkaggle)
 *   **LinkedIn:** [AI Youth Alliance (AIYA)](https://linkedin.com)
 *   **Contact Email:** info@aiyouthalliance.org
 
